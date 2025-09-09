@@ -1,0 +1,9 @@
+3
+root.html r w x
+main.py x
+login.txt w r
+4
+read root.html
+write main.py
+execute main.py
+execute login.txt
